@@ -4,13 +4,15 @@
 
 ❄️ I possess a strong grasp of cross-platform mobile app development, enabling me to create exceptional applications. I uphold professionalism as a core value, striving to achieve high standards in every aspect of my work.
 
-![Kudah Ndhlovu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eisax&hide=contribs,prs)
-
 
 ![Kudah Ndhlovu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eisax&show_icons=true&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eisax)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eisax" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eisax&layout=compact&langs_count=8&card_width=320" />
+</a>
 <br />
 
 :mailbox: Reach me out!
