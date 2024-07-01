@@ -4,10 +4,10 @@
 
 ❄️ I possess a strong grasp of cross-platform mobile app development, enabling me to create exceptional applications. I uphold professionalism as a core value, striving to achieve high standards in every aspect of my work.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eisax&hide=contribs,prs)
+![Kudah Ndhlovu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eisax&hide=contribs,prs)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Kudah Ndhlovu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eisax&show_icons=true&theme=radical)
 
 <br />
 
