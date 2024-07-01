@@ -1,4 +1,4 @@
-## Hi, I'm Kudah Ndhlovu <img src="" width="28px" height="28px" alt="hi">
+## Hi, I'm Kudah Ndhlovu
 
 🌟 I am a passionate full-stack software developer with expertise in both backend and frontend development. I have a keen interest in machine learning, IoT, and artificial intelligence. My experience includes working extensively with cross-platform mobile app development, specializing in Flutter, Android, and iOS platforms.
 
