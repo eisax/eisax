@@ -30,10 +30,7 @@
 
 4. 🌐 Industry Trends: I'm fascinated by the rapid advancements in mobile app development, AI, and machine learning. I aim to stay at the forefront of these trends and contribute to projects that leverage these technologies to create impactful solutions for users.
 
-#### Top Technologies
 
-
-<br />
 
 
 
