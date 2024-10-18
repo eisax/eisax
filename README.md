@@ -19,7 +19,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-kudahndhlovu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kudahndhlovu)](https://twitter.com/kudahndhlovu)
 [![Linkedin Badge](https://img.shields.io/badge/-kudahndhlovu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kudahndhlovu)
 [![Instagram Badge](https://img.shields.io/badge/-kudahndhlovu-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/kudahndhlovu)
-[![Gmail Badge](https://img.shields.io/badge/-kudahndhlovu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kudahndhlovu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-kudahndhlovu-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:josphatndhlovu362@gmail.com)
 
 ### What I'm looking for:
 1. 👥 Connect: I'm eager to connect with fellow developers and industry professionals to broaden my network and collaborate on innovative projects.
