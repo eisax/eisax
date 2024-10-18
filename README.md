@@ -6,7 +6,7 @@
 
 #### Github Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eisax&hide_border=false&include_all_commits=false&count_private=true"&show=reviews,prs_merged,prs_merged_percentage alt="eisax" />
+  <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eisax&hide_border=false&include_all_commits=true&count_private=true"&show=reviews,prs_merged,prs_merged_percentage alt="eisax" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eisax&layout=compact&langs_count=10&card_width=320"/>
