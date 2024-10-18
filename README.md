@@ -6,7 +6,7 @@
 
 #### Github Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eisax" />
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=dhruv8433&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="dhruv8433" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eisax&layout=compact&langs_count=10&card_width=320" />
