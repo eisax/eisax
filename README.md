@@ -29,8 +29,3 @@
 3. 💼 New Opportunities: I'm actively seeking opportunities in mobile app development and software engineering, particularly in companies focused on cutting-edge technologies. I'm open to exploring new roles that allow me to contribute my skills and learn from experienced teams.
 
 4. 🌐 Industry Trends: I'm fascinated by the rapid advancements in mobile app development, AI, and machine learning. I aim to stay at the forefront of these trends and contribute to projects that leverage these technologies to create impactful solutions for users.
-
-
-
-
-
