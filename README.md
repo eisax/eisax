@@ -52,7 +52,7 @@ Building Africa's next **tech powerhouse** — empowering businesses and individ
 <div align="center">
   <h2>🏆 My GitHub Trophies 🏆 </h2>
   <br>
-  <img alt="my trophies" src="https://github-profile-trophy.vercel.app/?username=JosphatNdhlovu&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img alt="my trophies" src="https://github-profile-trophy.vercel.app/?username=eisax&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 <br/><br/><br/>
 </div>
 <hr/>
