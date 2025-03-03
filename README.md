@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_private/eisax.svg)](https://user-badge.committers.top/zimbabwe_private/eisax)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Josphat+Ndhlovu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Kudah+Ndhlovu!;" />
 </h1>
 <h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
 <br/>
