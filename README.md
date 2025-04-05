@@ -19,7 +19,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
 - Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
 
 ### Tech Stack 💪
-- Backend: Laravel, FastAPI  
+- Backend: Laravel, FastAPI
 - Frontend: React, Flutter  
 - AI/ML: OpenAI API  
 - Payments: Stripe, Ecocash, Zimswitch  
