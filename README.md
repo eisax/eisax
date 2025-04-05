@@ -65,7 +65,7 @@ Building Africa's next **tech powerhouse** — empowering businesses and individ
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=eisax&count_private=true&hide_border=true&theme=react&background=0d1117" alt="Kudah's Streak Stats" width="49%" />
 </div>
 
-[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eisax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 <div align=center>
