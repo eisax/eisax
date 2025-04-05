@@ -70,6 +70,6 @@ Building Africa's next **tech powerhouse** — empowering businesses and individ
 <hr/>
 <br/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=✨+Thank+You+for+Stopping+By!+✨;🙌+I'm+grateful+you+visited+my+GitHub+page!;🚀+Let's+build+something+amazing+together!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=✨+Thank+You+for+Stopping+By!+✨;🙌+I'm+grateful+you+visited+my+GitHub+page!;+Let's+build+something+amazing+together!;" />
 </h1>
 <br/>
