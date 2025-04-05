@@ -14,7 +14,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
 
 ### What I'm Working On 🔥
 - **Ozzene** — An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps 💪🏽
-- **AI Study Agent** — WhatsApp-integrated personal study assistant powered by ChatGPT 🤖📚
+- **AI Study Agent** — WhatsApp-integrated personal study assistant powered by ChatGPT 📚
 - **Unified Digital Wallet** — Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
 - Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
 
