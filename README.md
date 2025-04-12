@@ -1,5 +1,4 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe/eisax.svg)](https://user-badge.committers.top/zimbabwe/eisax)
-[![committers.top badge](https://org-badge.committers.top/zimbabwe_private/ozzene.svg)](https://org-badge.committers.top/zimbabwe_private/ozzene)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
 
 
