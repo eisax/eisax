@@ -18,6 +18,9 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
 - **Unified Digital Wallet** — Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
 - Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
 
+
+### Tech Stack 
+
 ```mermaid
 mindmap
   root((Skills))
