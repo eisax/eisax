@@ -95,7 +95,7 @@ mindmap
 Building Africa's next **tech powerhouse** — empowering businesses and individuals through **AI, e-commerce, and fintech innovation**.
 
 <div align="center"> 
-  <a href="mailto:josphatndhlovu362@gmail.com">
+  <a href="mailto:kudahndhlovu@ozzene.co.zw">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   
