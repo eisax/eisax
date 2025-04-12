@@ -1,9 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/eisax.svg)](https://user-badge.committers.top/zimbabwe_public/eisax)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-
 ```mermaid
 mindmap
   root((Skills))
