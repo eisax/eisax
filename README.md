@@ -28,6 +28,9 @@ mindmap
       Python
       JavaScript
       TypeScript
+      Java
+      Php
+      Dart
       R
       SQL
       Bash
@@ -35,9 +38,13 @@ mindmap
     ((Frameworks))
       React
       Flask
+      React Native
+      Flutter
+      Nest.js
       Django
       FastAPI
       Express
+      Laravel
       Electron
       Next.js
       Dash
