@@ -1,6 +1,23 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/eisax.svg)](https://user-badge.committers.top/zimbabwe_public/eisax)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
 
+
+
+<h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
+<br/>
+<div align="start">
+
+👋 Hey there, I'm Josphat Ndhlovu!  
+🚀 Tech entrepreneur | Full-stack Developer | AI Enthusiast | Visionary Founder of **Ozzene**  
+
+I'm passionate about building **AI-powered solutions**, **e-commerce platforms**, and **fintech ecosystems** that transform how people interact with technology in **Zimbabwe and beyond** 🌍.
+
+### What I'm Working On 🔥
+- **Ozzene** — An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps 💪🏽
+- **AI Study Agent** — WhatsApp-integrated personal study assistant powered by ChatGPT 📚
+- **Unified Digital Wallet** — Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
+- Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
+
 ```mermaid
 mindmap
   root((Skills))
@@ -62,30 +79,7 @@ mindmap
         ECS
         Load Balancer
       Terraform
-```
-
-<h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
-<br/>
-<div align="start">
-
-👋 Hey there, I'm Josphat Ndhlovu!  
-🚀 Tech entrepreneur | Full-stack Developer | AI Enthusiast | Visionary Founder of **Ozzene**  
-
-I'm passionate about building **AI-powered solutions**, **e-commerce platforms**, and **fintech ecosystems** that transform how people interact with technology in **Zimbabwe and beyond** 🌍.
-
-### What I'm Working On 🔥
-- **Ozzene** — An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps 💪🏽
-- **AI Study Agent** — WhatsApp-integrated personal study assistant powered by ChatGPT 📚
-- **Unified Digital Wallet** — Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
-- Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
-
-### Tech Stack 💪
-- Backend: Laravel, FastAPI
-- Frontend: React, Flutter  
-- AI/ML: OpenAI API  
-- Payments: Stripe, Ecocash, Zimswitch  
-- DevOps: Docker, AWS  
-- Databases: PostgreSQL, Firebase, MySQL  
+``` 
 
 ### Vision 🌐
 Building Africa's next **tech powerhouse** — empowering businesses and individuals through **AI, e-commerce, and fintech innovation**.
