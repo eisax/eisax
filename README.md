@@ -54,10 +54,10 @@ mindmap
       SQLAlchemy
     ((UI))
       Material-UI
-      Tailwind
+      Tailwind *
       Shadcn-UI
       Ant Design
-      Bootstrap
+      Bootstrap *
     ((AI/ML))
       PyTorch
       TensorFlow
