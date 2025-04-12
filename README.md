@@ -1,8 +1,72 @@
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_public/eisax.svg)](https://user-badge.committers.top/zimbabwe_public/eisax)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Kudah+Ndhlovu!;" />
-</h1>
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+
+
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((UI))
+      Material-UI
+      Tailwind
+      Shadcn-UI
+      Ant Design
+      Bootstrap
+    ((AI/ML))
+      PyTorch
+      TensorFlow
+      Plotly
+      D3.js
+      Pandas
+      NumPy
+      Matplotlib
+      Seaborn
+      Scikit-Learn
+      Langchain
+    ((DevOps))
+      Git
+      Docker
+      CircleCI
+      GitHub Actions
+    ((Cloud))
+      AWS
+        S3
+        Lambda
+        SageMaker
+        SageMaker-Studio
+        Batch
+        ECR
+        Fargate
+        EC2
+        Workspaces
+        Neptune
+        ECS
+        Load Balancer
+      Terraform
+```
+
 <h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
 <br/>
 <div align="start">
