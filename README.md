@@ -25,26 +25,26 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
 mindmap
   root((Skills))
     ((Languages))
-      Python.
-      JavaScript.
-      TypeScript.
+      Python *
+      JavaScript *
+      TypeScript *
       Java
-      Php.
-      Dart.
+      Php *
+      Dart *
       R
-      SQL.
+      SQL *
       Bash
       PowerShell
     ((Frameworks))
-      React.
+      React *
       Flask
       React Native
-      Flutter.
+      Flutter *
       Nest.js
       Django
       FastAPI
       Express
-      Laravel.
+      Laravel *
       Electron
       Next.js
       Dash
