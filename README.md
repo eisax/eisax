@@ -33,7 +33,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
       An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=80382&format=png&color=000000" width="100" /><br>
       <strong>Unified Digital Fintech Wallet</strong><br>
       Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
     </td>
@@ -50,12 +50,12 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
       MVP for rating and reviewing employees with sentiment analysis, gamification, and NHS API integration 🌟
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/000000/external-industry-agriculture-flaticons-lineal-color-flat-icons.png" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=Yg6kCIazaGRt&format=png&color=000000" width="100" /><br>
       <strong>Industrial & Enterprise Solutions</strong><br>
       Custom enterprise and industrial software tailored for African businesses & supply chains 🏭💼
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/online-learning.png" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=XbjP6J0SO56c&format=png&color=000000" width="100" /><br>
       <strong>Edu Tech App</strong><br>
       Revolutionizing digital learning through interactive, locally-adapted education platforms 🎓📱
     </td>
