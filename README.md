@@ -38,7 +38,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
       Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/ai.png" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=2DiiTZdUOoZw&format=png&color=000000" width="100" /><br>
       <strong>AI Study Agent</strong><br>
       An AI-powered WhatsApp tutor with reminders, quizzes, and practicals — built using FastAPI + ChatGPT 📚🤖
     </td>
