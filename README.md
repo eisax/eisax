@@ -38,29 +38,30 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
       Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/234602337-7b02f160-0fd0-460f-83d1-f86e3b98880a.png" width="100" /><br>
+      <img src="https://img.icons8.com/fluency/96/ai.png" width="100" /><br>
       <strong>AI Study Agent</strong><br>
-      An AI-powered tutor with reminders, quizzes, and practicals — built using FastAPI + ChatGPT 📚🤖
+      An AI-powered WhatsApp tutor with reminders, quizzes, and practicals — built using FastAPI + ChatGPT 📚🤖
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/234603503-f08e770f-f35d-489e-84fd-4b8fdd04cb04.png" width="100" /><br>
+      <img src="https://img.icons8.com/color/96/employee-card.png" width="100" /><br>
       <strong>Employee Rating Platform</strong><br>
       MVP for rating and reviewing employees with sentiment analysis, gamification, and NHS API integration 🌟
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/234604203-133df31b-3e91-4747-b041-3f20be90f0cf.png" width="100" /><br>
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/000000/external-industry-agriculture-flaticons-lineal-color-flat-icons.png" width="100" /><br>
       <strong>Industrial & Enterprise Solutions</strong><br>
       Custom enterprise and industrial software tailored for African businesses & supply chains 🏭💼
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/234660000-d2fbbf94-65e4-4d85-bbd1-891a2c7276be.png" width="100" /><br>
+      <img src="https://img.icons8.com/fluency/96/online-learning.png" width="100" /><br>
       <strong>Edu Tech App</strong><br>
       Revolutionizing digital learning through interactive, locally-adapted education platforms 🎓📱
     </td>
   </tr>
 </table>
+
 
 
 
