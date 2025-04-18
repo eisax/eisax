@@ -4,7 +4,7 @@
   </a>
 
 
-  <a href="https://user-badge.committers.top/zimbabwe_private/KumaloWilson" target="_blank">
+  <a href="https://user-badge.committers.top/zimbabwe_private/eisax" target="_blank">
     <img src="https://img.shields.io/badge/🏆_%233_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=000000" alt="Top Committer Zimbabwe Badge"/>
   </a>
 
