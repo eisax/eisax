@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
-    <img src="https://user-badge.committers.top/zimbabwe_public/eisax.svg" alt="Top Committer Badge"/>
+  <a href="https://user-badge.committers.top/zimbabwe_private/eisax" target="_blank">
+    <img src="https://user-badge.committers.top/zimbabwe_private/eisax.svg" alt="Top Committer Badge"/>
   </a>
 
 
