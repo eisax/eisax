@@ -95,15 +95,6 @@ Building Africa's next **tech powerhouse** — empowering businesses and individ
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=eisax&count_private=true&hide_border=true&theme=react&background=0d1117" alt="Kudah's Streak Stats" width="49%" />
 </div>
 
-
-
-<br>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=eisax&hide=HTML&langs_count=3&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
-<hr/>
 <br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=✨+Thank+You+for+Stopping+By!+✨;🙌+I'm+grateful+you+visited+my+GitHub+page!;+Let's+build+something+amazing+together!;" />
