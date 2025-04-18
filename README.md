@@ -23,11 +23,22 @@
 
 I'm passionate about building **AI-powered solutions**, **e-commerce platforms**, and **fintech ecosystems** that transform how people interact with technology in **Zimbabwe and beyond** 🌍.
 
-### What I'm Working On 🔥
-- **Ozzene** — An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps 💪🏽
-- **AI Study Agent** — WhatsApp-integrated personal study assistant powered by ChatGPT 📚
-- **Unified Digital Wallet** — Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
-- Exploring future tech trends for **PhD research** in **AI, fintech, and industrial software**
+## What I'm Working On 🔥
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4a9f-98ed-6d0293897b3a.png" width="100" /><br>
+      <strong>Ozzene</strong><br>
+      An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" /><br>
+      <strong>Unified Digital Fintech Wallet</strong><br>
+      Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
+    </td>
+  </tr>
+</table>
 
 
 ### Tech Stack 
