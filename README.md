@@ -1,5 +1,16 @@
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_public/eisax.svg)](https://user-badge.committers.top/zimbabwe_public/eisax)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eisax" />
+<div align="center">
+  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
+    <img src="https://user-badge.committers.top/zimbabwe_public/eisax.svg" alt="Top Committer Badge"/>
+  </a>
+
+
+  <a href="https://user-badge.committers.top/zimbabwe_private/KumaloWilson" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_%233_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=000000" alt="Top Committer Zimbabwe Badge"/>
+  </a>
+
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KumaloWilson.KumaloWilson" alt="Profile Visitors Badge"/>
+</div>
 
 
 
