@@ -33,7 +33,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
       An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=80382&format=png&color=000000" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=209&format=png&color=000000" width="100" /><br>
       <strong>Unified Digital Fintech Wallet</strong><br>
       Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
     </td>
