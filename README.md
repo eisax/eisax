@@ -28,7 +28,7 @@ I'm passionate about building **AI-powered solutions**, **e-commerce platforms**
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4a9f-98ed-6d0293897b3a.png" width="100" /><br>
+      <img src="https://img.icons8.com/?size=100&id=RtzLD1EJ2U5a&format=png&color=000000" width="100" /><br>
       <strong>Ozzene</strong><br>
       An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps
     </td>
