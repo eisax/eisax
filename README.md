@@ -14,9 +14,6 @@
 
 
 
-![svg](https://raw.githubusercontent.com/eisax/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
-
-
 
 <h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
 <br/>
