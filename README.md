@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://user-badge.committers.top/zimbabwe/eisax" target="_blank">
-    <img src="https://user-badge.committers.top/zimbabwe/eisax.svg" alt="Top Committer Badge"/>
+  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
+    <img src="https://user-badge.committers.top/zimbabwe_public/eisax.svg" alt="Top Committer Badge"/>
   </a>
 
 
-  <a href="https://user-badge.committers.top/zimbabwe/eisax" target="_blank">
+  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
     <img src="https://img.shields.io/badge/🏆_%233_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=000000" alt="Top Committer Zimbabwe Badge"/>
   </a>
 
