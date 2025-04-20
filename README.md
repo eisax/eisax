@@ -24,47 +24,6 @@
 
 I'm passionate about building **AI-powered solutions**, **e-commerce platforms**, and **fintech ecosystems** that transform how people interact with technology in **Zimbabwe and beyond** 🌍.
 
-## What I'm Working On 🔥
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=42185&format=png&color=000000" width="100" /><br>
-      <strong>Ozzene</strong><br>
-      An all-in-one e-commerce ecosystem with vendor, shop, and delivery apps
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=209&format=png&color=000000" width="100" /><br>
-      <strong>Unified Digital Fintech Wallet</strong><br>
-      Consolidating Ecocash, Innbucks, OneMoney, Omari & Zimswitch into one seamless payment gateway 💳
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=2DiiTZdUOoZw&format=png&color=000000" width="100" /><br>
-      <strong>AI Study Agent</strong><br>
-      An AI-powered WhatsApp tutor with reminders, quizzes, and practicals — built using FastAPI + ChatGPT 📚🤖
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/employee-card.png" width="100" /><br>
-      <strong>Employee Rating Platform</strong><br>
-      MVP for rating and reviewing employees with sentiment analysis, gamification, and NHS API integration 🌟
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=Yg6kCIazaGRt&format=png&color=000000" width="100" /><br>
-      <strong>Industrial & Enterprise Solutions</strong><br>
-      Custom enterprise and industrial software tailored for African businesses & supply chains 🏭💼
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/?size=100&id=XbjP6J0SO56c&format=png&color=000000" width="100" /><br>
-      <strong>Edu Tech App</strong><br>
-      Revolutionizing digital learning through interactive, locally-adapted education platforms 🎓📱
-    </td>
-  </tr>
-</table>
-
-
-
 ### Vision 🌐
 Building Africa's next **tech powerhouse** — empowering businesses and individuals through **AI, e-commerce, and fintech innovation**.
 
