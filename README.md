@@ -22,11 +22,6 @@
 👋 Hey there, I'm Josphat Ndhlovu!  
 🚀 Tech entrepreneur | Full-stack Developer | AI Enthusiast | Visionary Founder of **Ozzene**  
 
-I'm passionate about building **AI-powered solutions**, **e-commerce platforms**, and **fintech ecosystems** that transform how people interact with technology in **Zimbabwe and beyond** 🌍.
-
-### Vision 🌐
-Building Africa's next **tech powerhouse** — empowering businesses and individuals through **AI, e-commerce, and fintech innovation**.
-
 
 <br/>
 <hr/>
