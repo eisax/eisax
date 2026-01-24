@@ -1,27 +1,4 @@
-<div align="center">
-  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
-    <img src="https://user-badge.committers.top/zimbabwe_public/eisax.svg" alt="Top Committer Badge"/>
-  </a>
-
-
-  <a href="https://user-badge.committers.top/zimbabwe_public/eisax" target="_blank">
-    <img src="https://img.shields.io/badge/🏆_%233_Top_Committer_In_Zimbabwe-red?style=for-the-badge&labelColor=000000" alt="Top Committer Zimbabwe Badge"/>
-  </a>
-
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eisax.eisax" alt="Profile Visitors Badge"/>
-</div>
-
-
-
-
-<h3 align="center">Empowering Africa through AI, Fintech, and E-commerce — One innovation at a time!</h3>
-<br/>
-<div align="start">
-
-👋 Hey there, I'm Josphat Ndhlovu!  
-🚀 Tech entrepreneur | Full-stack Developer | AI Enthusiast | Visionary Founder of **Ozzene**  
-
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%Kudah&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20Hyprland%20workflows%20•%20Neovim%20configs&descSize=20&descAlignY=55)](https://github.com/eisax)
 
 
 
