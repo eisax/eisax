@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=206bc4&height=220&section=header&text=Oi,%20World!%20I'm%20Kudah&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Infra%20Meets%20Code&descSize=20&descAlignY=55"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=206bc4&height=220&section=header&text=Oi,%20World!%20I'm%20Kudah&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Infra%20Meets%20Code&descSize=20&descAlignY=55"/>
 
 
 
