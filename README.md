@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:206bc4,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Oi,%20World!%20I'm%20Kudah&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Infra%20Meets%20Code&descSize=20&descAlignY=55)](https://github.com/eisax)
+[![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:206bc4,50:2d1b4e,100:1a0f2e&height=300&section](https://capsule-render.vercel.app/api?type=waving&color=206bc4&height=120&section)=header&text=Oi,%20World!%20I'm%20Kudah&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Infra%20Meets%20Code&descSize=20&descAlignY=55)](https://github.com/eisax)
 
 
 
