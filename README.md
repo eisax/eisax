@@ -23,15 +23,6 @@
 🚀 Tech entrepreneur | Full-stack Developer | AI Enthusiast | Visionary Founder of **Ozzene**  
 
 
-<br/>
-<hr/>
-<div align="center">
-  <h2>🏆 My GitHub Trophies 🏆 </h2>
-  <br>
-  <img alt="my trophies" src="https://github-profile-trophy.vercel.app/?username=eisax&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-<br/><br/><br/>
-</div>
-<hr/>
 
 
 <!-- GitHub Stats Section -->
